@@ -1,0 +1,29 @@
+
+ .btnContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+} 
+
+.loginContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100wh;
+    padding: 5px;
+}
+#h2{
+    color: dodgerblue;
+}
+.login-box-shadow {
+    border-radius: 5%;
+    box-shadow: -13px 14px 21px -5px rgba(0,0,0,0.77);
+-webkit-box-shadow: -13px 14px 21px -5px rgba(0,0,0,0.77);
+-moz-box-shadow: -13px 14px 21px -5px rgba(0,0,0,0.77);
+}
+.btnColor {
+    background-color:dodgerblue !important;
+    color: white !important;
+}
